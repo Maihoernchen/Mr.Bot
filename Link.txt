@@ -1,1 +1,1 @@
- https://discord.com/oauth2/authorize?client_id=796012047951200338&scope=bot&permissions=2147483647
+https://discord.com/oauth2/authorize?client_id=796012047951200338&scope=bot&permissions=2147483647
